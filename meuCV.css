@@ -1,0 +1,62 @@
+
+#caixa_dados_pessoais{
+    height:150px;
+}
+#col_foto{
+    margin-left: 10px;
+    width:130px;
+    float:left;
+    }
+#col_contato{
+    width:300px;
+    float:left;
+    }
+#col_contato span{
+    font-weight: bold;
+    }
+.linha{
+    width:800px;
+    height: 30px;;
+    }
+.col_1{
+    width:130px;
+    float:left;
+    }
+.col_2{
+    width:600px;
+    float:left;
+    }
+.col_1 p{
+    font-weight: bold;
+    }
+#caixa_formacao{
+    height:80px;
+}
+.exp_prof_n {
+    height:auto;
+    margin-bottom: 80px;
+}
+p{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+   
+}
+p, h1, h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h1, h2{
+    text-transform: uppercase;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-decoration: underline;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+  }
